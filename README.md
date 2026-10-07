@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=220&section=header&text=Abhishek%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20and%20Android%20Developer%20-%208%2B%20Apps%20Delivered&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=220&section=header&text=Abhishek%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20and%20Android%20Developer%20-%2010%2B%20Apps%20Delivered&descAlignY=55&descSize=20)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=Flutter+%2B+Dart+Developer;Android+(Kotlin)+%2B+Java;MVVM+%2B+Clean+Architecture;Firebase+%2B+REST+APIs+%2B+WebSockets;Native-to-Flutter+Migration+Specialist" alt="Typing SVG" />
